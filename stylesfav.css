@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background-color: #D6D5A8;
+    color: #F94C66;
+}
+
+h1{
+    font-family: 'sacramento', serif;
+    color: #F24C4C;
+}
+
+a{
+    color: #F94C66;
+}
+
+input[type=submit]{
+    background-color: #F24C4C;
+    cursor: pointer;
+}
+
+.yourinput{
+    background-color:#ECB390 ;
+}
